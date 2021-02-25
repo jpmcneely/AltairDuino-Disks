@@ -1,0 +1,26 @@
+
+---------------------------------------------
+Available disks images:
+---------------------------------------------
+00001) DISK01.DSK: CP/M (63k)
+00010) DISK02.DSK: ALTAIR DOS 1.0
+00011) DISK03.DSK: ALTAIR Disk Basic
+00100) DISK04.DSK: ALTAIR Disk Basic programs
+00101) DISK05.DSK: Games (CP/M programs)
+00110) DISK06.DSK: SuperCalc II (CP/M program)
+00111) DISK07.DSK: WordStar (CP/M program)
+01000) DISK08.DSK: Zork (CP/M game)
+01001) DISK09.DSK: Time Sharing Basic V1.1
+01010) DISK0A.DSK: Time Sharing Basic V2
+01011) DISK0B.DSK: Time Sharing Basic V2 programs
+01100) DISK0C.DSK: Altair Mini-Disk Basic
+01101) DISK0D.DSK: Altair Mini-Disk Basic programs
+01110) DISK0E.DSK: Altair Mini-Disk DOS
+01111) DISK0F.DSK: Altair Mini-Disk DOS programs
+10000) DISK10.DSK: Dazzler programs (boots CP/M)
+10001) DISK11.DSK: VDM-1 programs (boots CP/M)
+10010) DISK12.DSK: IMP modem executive (CP/M)
+---------------------------------------------
+
+Images 00-0F were put together by Mike Douglas.
+See README.TXT for more information.

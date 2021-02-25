@@ -1,0 +1,13 @@
+
+---------------------------------------------
+Available hard disk images:
+---------------------------------------------
+ 0001) HDSK01.DSK: Altair Hard Disk BASIC
+ 0010) HDSK02.DSK: Altair Accounting System
+ 0011) HDSK03.DSK: Mike Douglas' 88-HDSK CP/M
+ 0100) HDSK04.DSK: Infocom Adventures CP/M
+---------------------------------------------
+
+Images 1-3 were put together by Mike Douglas.
+Image 4 was put together by Frank Prindle.
+See README.TXT for more information.

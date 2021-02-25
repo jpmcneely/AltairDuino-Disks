@@ -1,0 +1,14 @@
+
+---------------------------------------------
+Available hard disk images:
+---------------------------------------------
+ 0001) HDSK01.DSK: Altair Hard Disk BASIC
+ 0010) HDSK02.DSK: Altair Accounting System
+ 0011) HDSK03.DSK: Mike Douglas' 88-HDSK CP/M
+ 0100) HDSK04.DSK: Infocom Adventures CP/M
+ 0101) HDSK05.DSK: BASIC
+ 0110) HDSK06.DSK: COBOL
+ 0111) HDSK07.DSK: dBase II
+ 1000) HDSK08.DSK: Turbo Pascal
+---------------------------------------------
+
