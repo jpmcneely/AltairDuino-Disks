@@ -9,6 +9,5 @@ Available hard disk images:
  0101) HDSK05.DSK: BASIC
  0110) HDSK06.DSK: COBOL
  0111) HDSK07.DSK: dBase II
- 1000) HDSK08.DSK: Turbo Pascal
 ---------------------------------------------
 
